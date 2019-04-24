@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "792476742212",
+    "firebase_url": "https://foodstrap-730c8.firebaseio.com",
+    "project_id": "foodstrap-730c8",
+    "storage_bucket": "foodstrap-730c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792476742212:android:cf7193566b0122b0",
+        "android_client_info": {
+          "package_name": "com.foodstrap.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792476742212-na2m4i5ph0u1danvj6nmu9pqeteq0iq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYVgtqrAbnyvxprf5CEnKRJu-bHW_LP88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

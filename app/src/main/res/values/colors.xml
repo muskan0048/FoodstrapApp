@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroundg">#65828e</color>
+    <color name="brown">#6e5444</color>
+
+    <color name="main_color">#ff9a00</color>
+    <color name="secondary_color">#BDBDBD</color>
+    <color name="placeholder_bg">#dddddd</color>
+
+    <color name="pinkred">#ff474a</color>
+    <color name="greylight">#f5f5f5</color>
+    <color name="guillotine_background">#eeedf2</color>
+    <color name="guillotine_background_dark">#a3dcb6</color>
+    <color name="selected_item_color">#30d1d5</color>
+    <color name="white">#ffffff</color>
+    <color name="grt">#aeaeae</color>
+    <color name="loghtgrey">#ece8e8</color>
+    <color name="black">#050000</color>
+    <color name="lightg">#a3dcb6</color>
+    <color name="yellow">#efe499</color>
+    <color name="hunger">#ff3c00</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#8b8a8a</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+    <color name="bll">#002261</color>
+    <color name="b">#e4e0df</color>
+    <color name="g">#249b20</color>
+    <color name="nexttoblack">#1d1d1d</color>
+    <color name="nexttoblue">#568bff</color>
+    <color name="orangee">#f9b179</color>
+    <color name="grad">#78da00</color>
+    <color name="bite">#ff7f50</color>
+    <color name="greenmenu">#217e20</color>
+    <color name="grey">#dbdcdb</color>
+    <color name="gre">#b1ffb6</color>
+    <color name="nexttowhite">#fcfcfc</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="button">#09D261</color>
+    <color name="newhunger">#FFC757</color>
+    <color name="purple">#582d99</color>
+    <color name="ortbotm">#f9eb72</color>
+
+    <color name="screen1">#F44336</color>
+    <color name="screen2">#64DD17</color>
+    <color name="screen3">#9C27B0</color>
+    <array name="dot_on_page_active">
+        <item>#B71C1C</item>
+        <item>#8BC34A</item>
+        <item>#4A148C</item>
+
+    </array>
+    <color name="light_gray">#aeaeae</color>
+
+    <array name="dot_on_page_not_active">
+        <item>#FF5252</item>
+        <item>#CCFF90</item>
+        <item>#E040FB</item>
+    </array>
+</resources>
